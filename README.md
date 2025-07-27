@@ -9,7 +9,7 @@ Multi-Dimensional Scaling (MDS) is a technique used for visualizing the similari
 
 ## Dataset
 
-We utilized MNIST dataset for MDS analysis. The dataset is included in this repository but can be easily substituted with your own dataset.
+We utilized MNIST dataset for MDS analysis. The dataset is included in this repository but you can use your own dataset as well.
 
 ## Implementation
 
@@ -18,5 +18,5 @@ Our implementation of the Multi-Dimensional Scaling (MDS) algorithm is provided 
 ## Repository Structure
 
 - `data/`: Directory containing the dataset used for MDS analysis.
-- `mds_algorithm.ipynb`: Jupyter Notebook containing the code for implementing the Multi-Dimensional Scaling (MDS) algorithm.
+- `mds.ipynb`: Jupyter Notebook containing the code for implementing the Multi-Dimensional Scaling (MDS) algorithm.
 - `README.md`: You are here!
